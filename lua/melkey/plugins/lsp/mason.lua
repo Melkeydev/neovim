@@ -39,6 +39,7 @@ return {
 				"sqlls",
 				"dockerls",
 				"zls",
+				"elixirls",
 			},
 		})
 
